@@ -1,4 +1,4 @@
-#require 'date'
+require 'date'
 class App < Sinatra::Base
 
 	get "/hello" do
